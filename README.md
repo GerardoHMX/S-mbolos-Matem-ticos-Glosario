@@ -52,6 +52,11 @@ Si conoces símbolos adicionales o quieres mejorar el proyecto:
 2. Crea una rama `feature/nueva-funcionalidad`  
 3. Envía un Pull Request 🚀  
 
+## 🙌 Agradecimientos
+
+Este proyecto nació gracias a la inspiración y contribución de la **Academia Ágora Aprende**,  
+cuyo enfoque en la enseñanza clara y accesible de las matemáticas motivó la creación de este glosario interactivo.
+
 ## 📜 Licencia
 
 Este proyecto está bajo la **Licencia MIT**.  
