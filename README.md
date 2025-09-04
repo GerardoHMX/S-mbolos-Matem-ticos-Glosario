@@ -27,9 +27,13 @@ Luego abre el archivo `index.html` en tu navegador favorito 🌐.
 
 .
 ├── index.html # Página principal del glosario
+
 ├── styles.css # Estilos del diseño
+
 ├── main.js # Lógica de filtrado, búsqueda y paginación
+
 ├── SímbolosMatematicos.md # Tabla de símbolos en formato Markdown
+
 └── Logo de Academia Ágora Aprende.png # Logo del proyecto
 
 
