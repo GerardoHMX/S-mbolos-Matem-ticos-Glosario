@@ -68,4 +68,5 @@ Desarrollado por [**Gerardo Huizar Castro**](https://github.com/GerardoHMX).
 Si te gustó este proyecto, ¡déjame una ⭐ en GitHub!
 
 ## Live Demo:
+https://gerardohmx.github.io/S-mbolos-Matem-ticos-Glosario/
 
